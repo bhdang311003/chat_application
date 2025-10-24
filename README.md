@@ -13,7 +13,6 @@ This is a chat application which can answer user queries in a natural, conversat
 📂 chat_application
 ├── handle_chat.py
 ├── llm.py
-├── api_main.py
 ├── main.py
 ├── requirements.txt
 └── README.md
