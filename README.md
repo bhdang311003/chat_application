@@ -35,3 +35,6 @@ Modules and dependencies in `requirements.txt`
   ```
   stremlit run main.py
   ```
+
+## Demo video: 
+https://screenrec.com/share/rDpGgZ2kyj
